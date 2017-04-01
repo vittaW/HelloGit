@@ -11,3 +11,10 @@ git add xxx	     将某个文件添加到git中
 git add -A 	     将所有文件添加到git中
 git commit           提交到本地仓库
 git commit -m "xxx"  提交到本地仓库,并添加描述
+git pull 	     更新代码,(先更新再提交),从远程仓库更新
+git push	     提交到远程仓库
+
+
+# vi,vim #
+插入 i		进入输入模式
+保存并退出 esc : wq 
